@@ -67,3 +67,7 @@ https://edge-hls.doppiocdn.org/hls/133559314/master/133559314_auto.m3u8?playlist
 #EXTGRP:brazilian
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/8/0/3/8032c76d47d4ab27d9783d03f17d2ec5-full" group-title="brazilian",astarthe_
 https://edge-hls.doppiocdn.org/hls/206564594/master/206564594_auto.m3u8?playlistType=lowLatency
+
+#EXTGRP:best
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/1/6/f168499ea1372c1977dfce80c4743577-full" group-title="best",SweetAlegra_
+https://edge-hls.doppiocdn.org/hls/52427699/master/52427699_auto.m3u8?playlistType=lowLatency
