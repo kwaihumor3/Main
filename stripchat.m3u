@@ -255,3 +255,9 @@ https://edge-hls.doppiocdn.org/hls/214656234/master/214656234_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/214201702/master/214201702_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/1/f/51f237394af6f5b0f147e1316524ec0e-full" group-title="stripchat" ,Parejalatin_2
 https://edge-hls.doppiocdn.org/hls/214583587/master/214583587_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/b/c/d/bcd4ac566b95b9772ab893e2d349819b-full" group-title="stripchat" ,saenz_pamela
+https://edge-hls.doppiocdn.org/hls/213745847/master/213745847_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/4/9/649eb9d6f6b8468e03192fd86270ed91-full" group-title="stripchat" ,ErickandEmma21
+https://edge-hls.doppiocdn.org/hls/213639812/master/213639812_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/b/b/6/bb6a7f0983fd2b83d1cdc9711c04ca4f-full" group-title="stripchat" ,AcrylicKateQuinn
+https://edge-hls.doppiocdn.org/hls/89343587/master/89343587_auto.m3u8?playlistType=lowLatency
