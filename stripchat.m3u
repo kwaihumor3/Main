@@ -117,3 +117,7 @@ https://edge-hls.doppiocdn.org/hls/205060018/master/205060018_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/193818884/master/193818884_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/b/d/6bdc081f340f7becae3d988c416368fa-full" group-title="stripchat" ,Nyiira
 https://edge-hls.doppiocdn.org/hls/211199137/master/211199137_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/7/2/372349cb7886244f97cfed31e6303dc6-full" group-title="stripchat" ,HotEvaX
+https://edge-hls.doppiocdn.org/hls/202004345/master/202004345_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/8/e/a8eda5cb4fd0461a5c8b91fb26a5a005-full" group-title="stripchat" ,VitoriaFernandes
+https://edge-hls.doppiocdn.org/hls/161331136/master/161331136_auto.m3u8?playlistType=lowLatency
