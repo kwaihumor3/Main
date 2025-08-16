@@ -117,6 +117,8 @@ https://edge-hls.doppiocdn.org/hls/95959710/master/95959710_auto.m3u8?playlistTy
 https://edge-hls.doppiocdn.org/hls/132308027/master/132308027_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/0/9/309b7179e5867141a71b9e8a6e958a6a-full" group-title="brazilian",NALLANDA
 https://edge-hls.doppiocdn.org/hls/203665394/master/203665394_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/4/6/8/4688ffa6aec0a6cc216d851e2a11ca2d-full" group-title="brazilian",MILEIDE980
+https://edge-hls.doppiocdn.org/hls/120909873/master/120909873_auto.m3u8?playlistType=lowLatency
 
 #EXTGRP:best
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/1/6/f168499ea1372c1977dfce80c4743577-full" group-title="best",SweetAlegra_
@@ -183,3 +185,13 @@ https://edge-hls.doppiocdn.org/hls/120909873/master/120909873_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/139664971/master/139664971_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/4/5/9/459da9e798140a6bf8b1a2f0453bba56-full" group-title="best",ValeryGrey
 https://edge-hls.doppiocdn.org/hls/7434026/master/7434026_auto.m3u8?playlistType=lowLatency
+
+#EXTGRP:ukrainian
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/3/b/c3b38f269351fd45706bd0326d1ea860-full" group-title="ukrainian",mc-Olivia
+https://edge-hls.doppiocdn.org/hls/98120209/master/98120209_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/4/b/9/4b9010c0798f6f370b7d80c991f7d973-full" group-title="ukrainian",
+https://edge-hls.doppiocdn.org/hls/41271269/master/41271269_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/2/1/3213fdb9f60e21176e78061ea3ae416c-full" group-title="ukrainian",Belochka_a
+https://edge-hls.doppiocdn.org/hls/170823729/master/170823729_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/6/2/a62462ebfe2b63b1dd0e2f35749f429d-full" group-title="ukrainian",ElisaJane
+https://edge-hls.doppiocdn.org/hls/116367379/master/116367379_auto.m3u8?playlistType=lowLatency
