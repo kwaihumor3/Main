@@ -83,6 +83,12 @@ https://edge-hls.doppiocdn.org/hls/198915038/master/198915038_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/177780084/master/177780084_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/6/d/a6d960f4558d6a909d3cec825d8b2127-full" group-title="brazilian",BiaTarada95
 https://edge-hls.doppiocdn.org/hls/183695077/master/183695077_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/3/9/c39fd93e68609ee1fc55f2d397363640-full" group-title="brazilian",GatinhaCarinhosa
+https://edge-hls.doppiocdn.org/hls/176605898/master/176605898_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/3/4/7342efa487efc3b62eb2b6b774ab62b3-full" group-title="brazilian",Natasha-Gray
+https://edge-hls.doppiocdn.org/hls/210312523/master/210312523_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/b/9/cb990679f46476e76aa9743b2a91de05-full" group-title="brazilian",pretty_architect
+https://edge-hls.doppiocdn.org/hls/74325330/master/74325330_auto.m3u8?playlistType=lowLatency
 
 #EXTGRP:best
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/1/6/f168499ea1372c1977dfce80c4743577-full" group-title="best",SweetAlegra_
