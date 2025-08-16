@@ -31,3 +31,5 @@ https://edge-hls.doppiocdn.org/hls/212551635/master/212551635_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/179529440/master/179529440_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/4/4/d4416e7d9e062ff768c481dec403bbbe-full" group-title="bdsm",NoTabooGames
 https://edge-hls.doppiocdn.org/hls/46648348/master/46648348_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/b/9/0/b9032231a3e1e574418e8142bc452b60-full" group-title="bdsm",
+https://edge-hls.doppiocdn.org/hls/207461911/master/207461911_auto.m3u8?playlistType=lowLatency
