@@ -63,3 +63,7 @@ https://edge-hls.doppiocdn.org/hls/183290194/master/183290194_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/203579737/master/203579737_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/1/e/21ec1c701bab07c00d2a60e97030f2cd-full" group-title="portuguese",upssnowy
 https://edge-hls.doppiocdn.org/hls/133559314/master/133559314_auto.m3u8?playlistType=lowLatency
+
+#EXTGRP:brazilian
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/8/0/3/8032c76d47d4ab27d9783d03f17d2ec5-full" group-title="brazilian",astarthe_
+https://edge-hls.doppiocdn.org/hls/206564594/master/206564594_auto.m3u8?playlistType=lowLatency
