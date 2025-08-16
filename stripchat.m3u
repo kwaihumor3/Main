@@ -669,3 +669,9 @@ https://edge-hls.doppiocdn.org/hls/116061401/master/116061401_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/142000769/master/142000769_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/d/c/3dce7bda2033e40bc9e4932075fbd423-full" group-title="stripchat" ,Flare0n
 https://edge-hls.doppiocdn.org/hls/197104570/master/197104570_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="Unknown" group-title="stripchat" ,Vivencias710
+https://edge-hls.doppiocdn.org/hls/202043641/master/202043641_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/4/b/6/4b6d7a2fa80d696c2091b316d201e117-full" group-title="stripchat" ,SafadoCavalo
+https://edge-hls.doppiocdn.org/hls/189131206/master/189131206_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/3/0/d303aca6c5e55bbf661b2b864fa86aba-full" group-title="stripchat" ,Breezee_
+https://edge-hls.doppiocdn.org/hls/144783084/master/144783084_auto.m3u8?playlistType=lowLatency
