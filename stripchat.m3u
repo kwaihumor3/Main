@@ -123,3 +123,5 @@ https://edge-hls.doppiocdn.org/hls/202004345/master/202004345_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/161331136/master/161331136_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/e/4/5e482266740264d5c7093ff0bec27314-full" group-title="stripchat" ,Betty2u
 https://edge-hls.doppiocdn.org/hls/183290194/master/183290194_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="Unknown" group-title="stripchat" ,Tala2018
+https://edge-hls.doppiocdn.org/hls/211448629/master/211448629_auto.m3u8?playlistType=lowLatency
