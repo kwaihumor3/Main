@@ -319,3 +319,13 @@ https://edge-hls.doppiocdn.org/hls/195317647/master/195317647_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/195808942/master/195808942_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/9/9/09906a97c90c15718a3b3cc2a15343cd-full" group-title="stripchat" ,RED_EMPIRE
 https://edge-hls.doppiocdn.org/hls/201858724/master/201858724_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/8/e/d8e327887957ca62ddbb73cc31ca0012-full" group-title="stripchat" ,anyelo_waller
+https://edge-hls.doppiocdn.org/hls/183648279/master/183648279_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/2/a/f2a9faf3cc49b02301a90cfeb664e634-full" group-title="stripchat" ,KING_OFF_BOYS
+https://edge-hls.doppiocdn.org/hls/191849721/master/191849721_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/5/8/c58b0e1ce339a0d4711474c5a2f6ab9e-full" group-title="stripchat" ,geroAguilar
+https://edge-hls.doppiocdn.org/hls/172118289/master/172118289_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/9/c/d9c5390bd2649cf9d9bdb2366916452f-full" group-title="stripchat" ,OLYMPUS_GUYS_BUT
+https://edge-hls.doppiocdn.org/hls/210851847/master/210851847_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/4/b/e4ba5e547405faaa15b353b58ab43c45-full" group-title="stripchat" ,Sweet_WallenV2
+https://edge-hls.doppiocdn.org/hls/172340742/master/172340742_auto.m3u8?playlistType=lowLatency
