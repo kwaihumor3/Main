@@ -71,6 +71,18 @@ https://edge-hls.doppiocdn.org/hls/206564594/master/206564594_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/215199298/master/215199298_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/a/d/aad22d00ce8998267ec545bff185be0c-full" group-title="brazilian",dianagolley420
 https://edge-hls.doppiocdn.org/hls/189307137/master/189307137_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/8/9/089fd5e4c15d97df7c46491e599f2caa-full" group-title="brazilian",---Red-haired-Fox---
+https://edge-hls.doppiocdn.org/hls/172239931/master/172239931_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/0/2/f0288c417c41296ec55aa1e956757c58-full" group-title="brazilian",LunahMiller
+https://edge-hls.doppiocdn.org/hls/112774709/master/112774709_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="Unknown" group-title="brazilian",kefera182025
+https://edge-hls.doppiocdn.org/hls/204620125/master/204620125_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/1/8/d/18d9133c6538060708dd30591662b2c5-full" group-title="brazilian",TayllorSweet_
+https://edge-hls.doppiocdn.org/hls/198915038/master/198915038_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/6/7/a670faf7ffe0740297fa32e60d343128-full" group-title="brazilian",luara1988
+https://edge-hls.doppiocdn.org/hls/177780084/master/177780084_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/6/d/a6d960f4558d6a909d3cec825d8b2127-full" group-title="brazilian",BiaTarada95
+https://edge-hls.doppiocdn.org/hls/183695077/master/183695077_auto.m3u8?playlistType=lowLatency
 
 #EXTGRP:best
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/1/6/f168499ea1372c1977dfce80c4743577-full" group-title="best",SweetAlegra_
