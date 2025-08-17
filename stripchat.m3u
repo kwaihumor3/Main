@@ -1223,3 +1223,15 @@ https://edge-hls.doppiocdn.org/hls/205607693/master/205607693_auto.m3u8?playlist
 #EXTGRP:Negra
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/5/e/95efb17f1296f84558a77167e9dab983-full" group-title="Negra",Luhma_hot
 https://edge-hls.doppiocdn.org/hls/174949415/master/174949415_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/b/8/db815aa0f4c57355f13a8e1fc47f8740-full" group-title="Negra",
+https://edge-hls.doppiocdn.org/hls/204124771/master/204124771_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/f/f/dff1a96af003af9468ec6326ae3ccb00-full" group-title="Negra",MegannHills
+https://edge-hls.doppiocdn.org/hls/213435951/master/213435951_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/a/c/0ac7ff2f4aaf95472bf9dc64cb5435c6-full" group-title="Negra",ElizaGrey_
+https://edge-hls.doppiocdn.org/hls/102019918/master/102019918_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/3/0/230e3f68c56c97158f4c36b1a8825770-full" group-title="Negra",zuritamtam
+https://edge-hls.doppiocdn.org/hls/128677007/master/128677007_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/b/7/7/b77d367a46b3f8864fdb3fd029d9a69e-full" group-title="Negra",MSweetLindaParks
+https://edge-hls.doppiocdn.org/hls/63251256/master/63251256_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/3/f/63f21a34c9730e39b373243bf8478c56-full" group-title="Negra",skarlleth_11
+https://edge-hls.doppiocdn.org/hls/196934475/master/196934475_auto.m3u8?playlistType=lowLatency
