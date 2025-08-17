@@ -1125,3 +1125,11 @@ https://edge-hls.doppiocdn.org/hls/166804777/master/166804777_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/182792092/master/182792092_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/d/2/2d2288019f7850962921edc31e6d62b6-full" group-title="Árabe",jazmin_anbar
 https://edge-hls.doppiocdn.org/hls/181586926/master/181586926_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/b/5/7b510aea629473d52a5108ad462696aa-full" group-title="Árabe",nassma
+https://edge-hls.doppiocdn.org/hls/170087084/master/170087084_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/6/a/a6aab864dcdc2cfc89739340842f9341-full" group-title="Árabe",brianna_196
+https://edge-hls.doppiocdn.org/hls/79402382/master/79402382_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="Unknown" group-title="Árabe",Hot-Diva
+https://edge-hls.doppiocdn.org/hls/180827161/master/180827161_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/b/d/7bdee9af9273ddeb0656837f8a438677-full" group-title="Árabe",DORYY
+https://edge-hls.doppiocdn.org/hls/48390580/master/48390580_auto.m3u8?playlistType=lowLatency
