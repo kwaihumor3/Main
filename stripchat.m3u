@@ -515,3 +515,11 @@ https://edge-hls.doppiocdn.org/hls/205802020/master/205802020_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/62738775/master/62738775_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/1/8/718ee95759236061cedb3e1daafabbb2-full" group-title="Melhor para Privado",KinkyKylieUk
 https://edge-hls.doppiocdn.org/hls/172205061/master/172205061_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/7/8/778bc2635f4ce8a9d06ccc8606d5a4db-full" group-title="Melhor para Privado",vera_jim
+https://edge-hls.doppiocdn.org/hls/181398904/master/181398904_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/d/9/ad9da622a16a39a313da50a4fcd2d9d7-full" group-title="Melhor para Privado",melana_love
+https://edge-hls.doppiocdn.org/hls/192152141/master/192152141_auto.m3u8?playlistType=lowLatency
+
+#EXTGRP:Português
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/1/e/21ec1c701bab07c00d2a60e97030f2cd-full" group-title="Português",upssnowy
+https://edge-hls.doppiocdn.org/hls/133559314/master/133559314_auto.m3u8?playlistType=lowLatency
