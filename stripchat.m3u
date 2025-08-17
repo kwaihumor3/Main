@@ -575,3 +575,9 @@ https://edge-hls.doppiocdn.org/hls/72639807/master/72639807_auto.m3u8?playlistTy
 https://edge-hls.doppiocdn.org/hls/202944491/master/202944491_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/b/8/6b8ad5683340bbc0263878cb2e1aef9b-full" group-title="Ucraniana",
 https://edge-hls.doppiocdn.org/hls/121570789/master/121570789_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/a/a/9aabeaedfdfdd0a9683a8740ec65a09b-full" group-title="Ucraniana",KarolinaBlacks
+https://edge-hls.doppiocdn.org/hls/177144446/master/177144446_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/e/2/5e2e05afd7c681631b4afd82295c9b69-full" group-title="Ucraniana",lipsieva
+https://edge-hls.doppiocdn.org/hls/205248685/master/205248685_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/0/6/f06974322add2cf56c0bd8d707baf360-full" group-title="Ucraniana",AfinaLin
+https://edge-hls.doppiocdn.org/hls/182566902/master/182566902_auto.m3u8?playlistType=lowLatency
