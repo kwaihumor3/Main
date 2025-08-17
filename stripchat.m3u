@@ -795,3 +795,11 @@ https://edge-hls.doppiocdn.org/hls/126114747/master/126114747_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/104260211/master/104260211_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/3/3/a33216446385ff90bf6af19b215a90bf-full" group-title="Ticket Shows",ha888we
 https://edge-hls.doppiocdn.org/hls/186175301/master/186175301_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/3/4/e345e70b39718e35f29b075d66188fd0-full" group-title="Ticket Shows",Kiki--2025
+https://edge-hls.doppiocdn.org/hls/149347172/master/149347172_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/e/9/0e9c9cde9003b841833be955f0dacab3-full" group-title="Ticket Shows",Candice-99
+https://edge-hls.doppiocdn.org/hls/200482360/master/200482360_auto.m3u8?playlistType=lowLatency
+
+#EXTGRP:Adolescente 18+
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/c/c/ccc65cc33a63da4402e68c97673bd660-full" group-title="Adolescente 18+",momopretinha
+https://edge-hls.doppiocdn.org/hls/174207382/master/174207382_auto.m3u8?playlistType=lowLatency
