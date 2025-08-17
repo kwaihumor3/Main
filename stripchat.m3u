@@ -415,3 +415,11 @@ https://edge-hls.doppiocdn.org/hls/214561623/master/214561623_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/214395592/master/214395592_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/4/1/24107f52c84be80ff5d33d18393af3f8-full" group-title="Recomendados",Ranting18
 https://edge-hls.doppiocdn.org/hls/148107393/master/148107393_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/b/c/0bcb256a1c5f82fb07200d60a36ec7eb-full" group-title="Recomendados",muxin_love
+https://edge-hls.doppiocdn.org/hls/213095969/master/213095969_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/8/b/1/8b1455822c610022e8aaf0d3b212f756-full" group-title="Recomendados",lucy-joy
+https://edge-hls.doppiocdn.org/hls/197981960/master/197981960_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/8/5/2/852ba86c33f8e9ec0346be3bdda6a44e-full" group-title="Recomendados",mmelicious
+https://edge-hls.doppiocdn.org/hls/192252612/master/192252612_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/5/c/e5c62f65a330d755a8973f3b7636ab1d-full" group-title="Recomendados",Lolipopcandy
+https://edge-hls.doppiocdn.org/hls/208863699/master/208863699_auto.m3u8?playlistType=lowLatency
