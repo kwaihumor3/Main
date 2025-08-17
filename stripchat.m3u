@@ -919,3 +919,7 @@ https://edge-hls.doppiocdn.org/hls/120560759/master/120560759_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/111059700/master/111059700_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/a/f/5aff3128ad17c0cfaafc0b9a26739b95-full" group-title="Jovem 22+",Valentines_Day
 https://edge-hls.doppiocdn.org/hls/102495795/master/102495795_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/b/b/9bb43026991b59916a55de0c30bfa325-full" group-title="Jovem 22+",lilmisscutie
+https://edge-hls.doppiocdn.org/hls/162680062/master/162680062_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/b/2/9b282b0148dd1c327a1f3b724d3dc6a6-full" group-title="Jovem 22+",IsabellaEtthan
+https://edge-hls.doppiocdn.org/hls/1128670/master/1128670_auto.m3u8?playlistType=lowLatency
