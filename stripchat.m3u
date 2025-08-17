@@ -409,3 +409,9 @@ https://edge-hls.doppiocdn.org/hls/211234214/master/211234214_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/208569547/master/208569547_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/7/f/d7f0ed614f3f579ae67f9c7112ebbe21-full" group-title="Recomendados",davids_angels
 https://edge-hls.doppiocdn.org/hls/211168334/master/211168334_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="Unknown" group-title="Recomendados",lilkimch
+https://edge-hls.doppiocdn.org/hls/214561623/master/214561623_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/5/8/558b79d68dcbdb01e36312095f131a19-full" group-title="Recomendados",QUEEN-ADITI
+https://edge-hls.doppiocdn.org/hls/214395592/master/214395592_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/4/1/24107f52c84be80ff5d33d18393af3f8-full" group-title="Recomendados",Ranting18
+https://edge-hls.doppiocdn.org/hls/148107393/master/148107393_auto.m3u8?playlistType=lowLatency
