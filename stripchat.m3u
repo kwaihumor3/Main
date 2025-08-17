@@ -1297,3 +1297,9 @@ https://edge-hls.doppiocdn.org/hls/90968580/master/90968580_auto.m3u8?playlistTy
 https://edge-hls.doppiocdn.org/hls/150488587/master/150488587_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/9/f/79f45a17ca64a4e065ae6148bde4f064-full" group-title="Indiano",Cute__Lisa
 https://edge-hls.doppiocdn.org/hls/211141085/master/211141085_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/e/8/9e80df0c724427cfd0be26e4220319af-full" group-title="Indiano",Bold-Cat
+https://edge-hls.doppiocdn.org/hls/157298061/master/157298061_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/2/0/920f1f7dbe06b7cae5b006d771aa9e4e-full" group-title="Indiano",Tashaa
+https://edge-hls.doppiocdn.org/hls/117507841/master/117507841_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/4/1/3/413f064677f0ea61afef664b69c68cf8-full" group-title="Indiano",payalmehta
+https://edge-hls.doppiocdn.org/hls/101542222/master/101542222_auto.m3u8?playlistType=lowLatency
