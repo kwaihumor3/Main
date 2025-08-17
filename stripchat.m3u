@@ -909,3 +909,13 @@ https://edge-hls.doppiocdn.org/hls/142498134/master/142498134_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/120708865/master/120708865_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/1/f/e1fd710b12927d08aa61052ce64a0967-full" group-title="Jovem 22+",dani123unica
 https://edge-hls.doppiocdn.org/hls/145378191/master/145378191_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/b/6/fb6bacad419234bb89145c6912804df6-full" group-title="Jovem 22+",-mirai-
+https://edge-hls.doppiocdn.org/hls/117763975/master/117763975_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/5/f/05fc1a25737e8a91830d560eeeeb5f6f-full" group-title="Jovem 22+",KittyQueeny
+https://edge-hls.doppiocdn.org/hls/206516337/master/206516337_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/8/a/d8a28d8092bef30de3d13765a536e714-full" group-title="Jovem 22+",Irish_Collins
+https://edge-hls.doppiocdn.org/hls/120560759/master/120560759_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/c/9/3c9333dcd9836aadf3ef369d5c5ce81a-full" group-title="Jovem 22+",_Monic_
+https://edge-hls.doppiocdn.org/hls/111059700/master/111059700_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/a/f/5aff3128ad17c0cfaafc0b9a26739b95-full" group-title="Jovem 22+",Valentines_Day
+https://edge-hls.doppiocdn.org/hls/102495795/master/102495795_auto.m3u8?playlistType=lowLatency
