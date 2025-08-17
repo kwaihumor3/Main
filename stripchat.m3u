@@ -1321,3 +1321,17 @@ https://edge-hls.doppiocdn.org/hls/125476354/master/125476354_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/200465074/master/200465074_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/1/b/21b7dfc89ef991e3062d2365fc5c3317-full" group-title="Indiano",Cupid_of_Hearts
 https://edge-hls.doppiocdn.org/hls/160967508/master/160967508_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/3/c/53ceb4c84feda8564c7bf0b30b6058f9-full" group-title="Indiano",Wild_Shemi
+https://edge-hls.doppiocdn.org/hls/127237835/master/127237835_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/8/1/c816a3a8c906f080b56b52f597e13fc5-full" group-title="Indiano",seductivegirl55
+https://edge-hls.doppiocdn.org/hls/126817138/master/126817138_auto.m3u8?playlistType=lowLatency
+
+#EXTGRP:Latina
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/a/4/6a43d7c594be0869c1386128bab804dd-full" group-title="Latina",
+https://edge-hls.doppiocdn.org/hls/215166680/master/215166680_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/1/6/f168499ea1372c1977dfce80c4743577-full" group-title="Latina",SweetAlegra_
+https://edge-hls.doppiocdn.org/hls/52427699/master/52427699_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/7/5/575cf6a80f457baa9aae069f1b2c2294-full" group-title="Latina",Nikatsu
+https://edge-hls.doppiocdn.org/hls/133194331/master/133194331_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/4/9/d49ca84b857927ed42fa76107442b571-full" group-title="Latina",eujade
+https://edge-hls.doppiocdn.org/hls/213346806/master/213346806_auto.m3u8?playlistType=lowLatency
