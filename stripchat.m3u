@@ -1143,3 +1143,13 @@ https://edge-hls.doppiocdn.org/hls/77740266/master/77740266_auto.m3u8?playlistTy
 https://edge-hls.doppiocdn.org/hls/199014040/master/199014040_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/3/3/f336756c7b20fae22b957c29d65b482a-full" group-title="Árabe",Deina_bunny
 https://edge-hls.doppiocdn.org/hls/85588862/master/85588862_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/4/0/c409e8b20a084f205effabe6c01f8d29-full" group-title="Árabe",New_Arab_Kingdom
+https://edge-hls.doppiocdn.org/hls/81429239/master/81429239_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/4/3/c/43cc1e1f25c40df875857738c1d89f3f-full" group-title="Árabe",lombarlana-89
+https://edge-hls.doppiocdn.org/hls/130263549/master/130263549_auto.m3u8?playlistType=lowLatency
+
+#EXTGRP:Asiática
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/0/3/9/0399035e3bb65df7d4a4e5aa654a7204-full" group-title="Asiática",Musae
+https://edge-hls.doppiocdn.org/hls/71228306/master/71228306_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/9/b/29b496f081e83a9ae7370330ccce1ad5-full" group-title="Asiática",TOP_ping
+https://edge-hls.doppiocdn.org/hls/185681907/master/185681907_auto.m3u8?playlistType=lowLatency
