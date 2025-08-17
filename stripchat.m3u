@@ -1075,3 +1075,11 @@ https://edge-hls.doppiocdn.org/hls/13068105/master/13068105_auto.m3u8?playlistTy
 https://edge-hls.doppiocdn.org/hls/204658840/master/204658840_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/f/4/0/f40565b6710fff78c8a20e06aa074b14-full" group-title="Avozinhas",VioletSweet5566
 https://edge-hls.doppiocdn.org/hls/212118946/master/212118946_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/7/a/77a0e7444389696e8e14ee3ec53e71e5-full" group-title="Avozinhas",Anna72233
+https://edge-hls.doppiocdn.org/hls/211733388/master/211733388_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/2/7/627813059d094c6c3eda5660faa1f4bd-full" group-title="Avozinhas",Mila_Redd
+https://edge-hls.doppiocdn.org/hls/192748068/master/192748068_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/b/0/3b0e96d6e246be921e3637f690a299ee-full" group-title="Avozinhas",CityGlam
+https://edge-hls.doppiocdn.org/hls/49498825/master/49498825_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="Unknown" group-title="Avozinhas",NataliMellow
+https://edge-hls.doppiocdn.org/hls/33806479/master/33806479_auto.m3u8?playlistType=lowLatency
