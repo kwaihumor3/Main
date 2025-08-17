@@ -273,6 +273,12 @@ https://edge-hls.doppiocdn.org/hls/187329715/master/187329715_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/208708235/master/208708235_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/a/b/b/abb3367d4e1ecff749df6b39dba5f54e-full" group-title="best",CindyNightX
 https://edge-hls.doppiocdn.org/hls/118662428/master/118662428_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/6/4/9/6494f95a7b410efda9dbd75564df4d0d-full" group-title="best",Milkyy_wway
+https://edge-hls.doppiocdn.org/hls/160500125/master/160500125_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/b/2/0/b2051f141a9c03f973a1709555bcf25a-full" group-title="best",DreamyGleam
+https://edge-hls.doppiocdn.org/hls/138577426/master/138577426_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/5/3/5/5352bf926b8bc20e7dc343d8860d87c4-full" group-title="best",lola_tentatiion
+https://edge-hls.doppiocdn.org/hls/176475646/master/176475646_auto.m3u8?playlistType=lowLatency
 
 #EXTGRP:ukrainian
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/c/3/b/c3b38f269351fd45706bd0326d1ea860-full" group-title="ukrainian",mc-Olivia
