@@ -643,3 +643,13 @@ https://edge-hls.doppiocdn.org/hls/214523388/master/214523388_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/213884165/master/213884165_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/f/3/9f337aba6edcd0036d4e0dc490cfabfd-full" group-title="Novos Modelos",Missredboneo12
 https://edge-hls.doppiocdn.org/hls/141568397/master/141568397_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/3/3/d/33d8d603d50d0ec47d2650da4ecc17c6-full" group-title="Novos Modelos",kylerouse__
+https://edge-hls.doppiocdn.org/hls/212645913/master/212645913_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/b/e/dbe9d546f5e1a67f2bb46d9866466437-full" group-title="Novos Modelos",Brittney_Shaw
+https://edge-hls.doppiocdn.org/hls/213694421/master/213694421_auto.m3u8?playlistType=lowLatency
+
+#EXTGRP:Cams RV
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/9/e/7/9e703813044f7b74d196e7018b26cfa6-full" group-title="Cams RV",zephirahabney
+https://edge-hls.doppiocdn.org/hls/135103095/master/135103095_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/2/6/e2682f3107efc2699a114af669784a0a-full" group-title="Cams RV",-camila-cooper-_
+https://edge-hls.doppiocdn.org/hls/86206049/master/86206049_auto.m3u8?playlistType=lowLatency
