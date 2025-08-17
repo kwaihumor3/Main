@@ -607,3 +607,9 @@ https://edge-hls.doppiocdn.org/hls/213831742/master/213831742_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/214542252/master/214542252_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/e/b/c/ebcad6e3a6c9aa83222afb221cbd5cc4-full" group-title="Novos Modelos",Mia-Glow
 https://edge-hls.doppiocdn.org/hls/212473214/master/212473214_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="Unknown" group-title="Novos Modelos",Kidssj
+https://edge-hls.doppiocdn.org/hls/125754915/master/125754915_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/2/f/0/2f070e265bef4f5614ec97fed3e24a3a-full" group-title="Novos Modelos",AliceRodman
+https://edge-hls.doppiocdn.org/hls/213476616/master/213476616_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/5/b/75b9e2d975881a970e04b4ffa26943bd-full" group-title="Novos Modelos",Lunix_fox
+https://edge-hls.doppiocdn.org/hls/213958799/master/213958799_auto.m3u8?playlistType=lowLatency
