@@ -787,3 +787,5 @@ https://edge-hls.doppiocdn.org/hls/129194852/master/129194852_auto.m3u8?playlist
 https://edge-hls.doppiocdn.org/hls/205233493/master/205233493_auto.m3u8?playlistType=lowLatency
 #EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/7/1/7/717122c3b43a3c48aff40ba091aec179-full" group-title="Ticket Shows",Masters-Queen-dog
 https://edge-hls.doppiocdn.org/hls/175087487/master/175087487_auto.m3u8?playlistType=lowLatency
+#EXTINF:-1 tvg-logo="https://static-cdn.strpst.com/avatars/d/e/b/deb9ab1593184a3e8b830c43b82c478d-full" group-title="Ticket Shows",KarllaWalker
+https://edge-hls.doppiocdn.org/hls/165539526/master/165539526_auto.m3u8?playlistType=lowLatency
