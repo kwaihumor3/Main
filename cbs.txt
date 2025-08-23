@@ -1,0 +1,3 @@
+url: http://bruma.zip:80
+username: 794392156024
+password: 459813702836
