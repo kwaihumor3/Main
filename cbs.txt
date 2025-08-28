@@ -1,3 +1,5 @@
 url: http://244a.cc:80
 username: KfTTMQ
 password: UBNX3V
+
+adulturl: https://raw.githubusercontent.com/kwaihumor3/Main/refs/heads/main/stripchat.m3u
