@@ -2,4 +2,4 @@ url: http://244a.cc:80
 username: KfTTMQ
 password: UBNX3V
 
-adulturl: https://xc.adultiptv.net/get.php?username=adultiptv&password=adultiptv&type=m3u
+adulturl: https://raw.githubusercontent.com/kwaihumor3/Main/refs/heads/main/stripchat.m3u
