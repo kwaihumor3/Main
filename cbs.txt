@@ -3,3 +3,5 @@ username: KfTTMQ
 password: UBNX3V
 
 adulturl: https://raw.githubusercontent.com/kwaihumor3/Main/refs/heads/main/stripchat.m3u
+
+epgurl: https://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/clarotv.com.br.channels.xml
