@@ -1,6 +1,6 @@
-url: http://244a.cc:80
-username: KfTTMQ
-password: UBNX3V
+url: http://hidratv.drivecar.click
+username: 119191417
+password: 651939617
 
 adulturl: https://raw.githubusercontent.com/kwaihumor3/Main/refs/heads/main/stripchat.m3u
 
