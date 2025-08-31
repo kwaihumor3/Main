@@ -1,4 +1,4 @@
-url: http://hidratv.drivecar.click
+url: http://hidratv.drivecar.click:8080
 username: 119191417
 password: 651939617
 
