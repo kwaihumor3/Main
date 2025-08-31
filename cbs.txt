@@ -1,6 +1,6 @@
-url: http://hidratv.drivecar.click:8080
-username: 119191417
-password: 651939617
+url: http://bruma.zip:80
+username: 794392156024
+password: 459813702836
 
 adulturl: https://raw.githubusercontent.com/kwaihumor3/Main/refs/heads/main/stripchat.m3u
 
